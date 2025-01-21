@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 using System.Threading.Tasks;
 
-string[] input = "129.45.4.27".Split('.'); //Ввод входного адреса
+string[] input = "129.44.60.94".Split('.'); //Ввод входного адреса
 
 //Ввод адресов назначения
 string[] need =
